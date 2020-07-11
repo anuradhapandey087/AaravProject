@@ -8,7 +8,7 @@ import java.util.concurrent.TimeUnit;
 public class BaseTest {
 
     public static WebDriver driver;
-
+//BaseClass for selenium
     public void initialization()
     {
         String driverpath="C:\\Users\\ANKIT\\Desktop\\WebDriver\\chromedriver_v83.exe";
